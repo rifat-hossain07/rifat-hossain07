@@ -1,4 +1,5 @@
-![Header](https://github.com/rifat-hossain07/rifat-hossain07/blob/main/github-header-image.png)
+<img src="https://github.com/rifat-hossain07/rifat-hossain07/blob/main/output-onlinegiftools.gif" alt="Header" width="1000">
+
 <h1 align="left">🧑🏻 What I do</h1>
 <P>
 Focused on building robust and scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js). Passionate about crafting efficient backend systems and interactive user interfaces. Always learning and dedicated to delivering high-quality, user-centric solutions.
