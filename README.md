@@ -1,5 +1,5 @@
 ![Header](https://github.com/rifat-hossain07/rifat-hossain07/blob/main/github-header-image.png)
-<h1 align="left">What I do:</h1>
+<h1 align="left">🧑🏻 What I do</h1>
 <P>
   
 Focused on building robust and scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js). Passionate about crafting efficient backend systems and interactive user interfaces. Always learning and dedicated to delivering high-quality, user-centric solutions.
@@ -7,9 +7,8 @@ Focused on building robust and scalable web applications using the MERN stack (M
 
 
 
- <h1>Recent Projects</h1>
- <h3>
-Vibe-IT</h3>
+ <h1>🌐Recent Projects</h1>
+ <h3>💼Vibe-IT</h3>
 
 This is a full-stack Software Company website.
 <h5>key features:-</h5>
@@ -28,8 +27,7 @@ Live Link:-  <a href="https://vibe-it.web.app/">Vibe-IT.com</a>
 Repository Link:- <a href="https://github.com/rifat-hossain07/Vibe-IT-Web.git">Vibe-IT.github</a>
 </p>
 
- <h3>
-RHR-Hotel</h3>
+ <h3>🏨 RHR-Hotel</h3>
 
 This is a full-stack Hotel Management website.
 <h5>key features:-</h5>
@@ -48,8 +46,7 @@ Live Link:-  <a href="https://rhr-hote-2.surge.sh/">RHR-Hotel.com</a>
 Repository Link:- <a href="https://github.com/Rifatbd0789/RHR-Hotel-Web.git">RHR-Hotel.github</a>
 </p>
  
-<h3>
-RHR-Tech</h3>
+<h3>🛒RHR-Tech</h3>
 
 This is a full-stack Tech selling shop website.
 <h5>key features:-</h5>
@@ -83,8 +80,9 @@ Repository Link:- <a href="https://github.com/Rifatbd0789/RHR-Tech-Web.git">RHR-
 </p>
 
 <h1 align="left">📈Current Stats</h1>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rifat-hossain07&theme=react&border_radius=5&card_width=1000)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rifat-hossain07&theme=react&border_radius=5&card_width=1000" alt="Your Alt Text Here">
+</p>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rifat-hossain07&theme=react" alt="Your Alt Text Here">
 </p>
