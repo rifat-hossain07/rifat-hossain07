@@ -18,21 +18,22 @@
 
 </p>
 
-<h3 align="left">Stats:</h3>
+<h3 align="left">📈Current Stats:</h3>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rifat-hossain07&theme=algolia&border_radius=5&card_width=1000)](https://git.io/streak-stats)
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rifat-hossain07&theme=algolia" alt="Your Alt Text Here">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rifat-hossain07&theme=algolia" alt="Your Alt Text Here">
 </p>
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rifat-hossain07&theme=algolia" alt="Your Alt Text Here">
+  
 </p>
 
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rifat-hossain07&theme=algolia&border_radius=5&card_width=1000)](https://git.io/streak-stats)
+
 
 
 
