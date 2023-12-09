@@ -1,5 +1,7 @@
-<h3 align="center">A passionate web developer from Bangladesh</h3>
 
+<img src="https://github.com/rifat-hossain07/rifat-hossain07/blob/main/github-header-image.png" />
+
+<h3 align="center">A passionate web developer from Bangladesh</h3>
 - 📫 How to reach me **rifatrabby78@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
