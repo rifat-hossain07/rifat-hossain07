@@ -1,7 +1,6 @@
 ![Header](https://github.com/rifat-hossain07/rifat-hossain07/blob/main/github-header-image.png)
 <h1 align="left">🧑🏻 What I do</h1>
 <P>
-  
 Focused on building robust and scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js). Passionate about crafting efficient backend systems and interactive user interfaces. Always learning and dedicated to delivering high-quality, user-centric solutions.
 </P>
 
@@ -9,7 +8,6 @@ Focused on building robust and scalable web applications using the MERN stack (M
 
  <h1>🌐Recent Projects</h1>
  <h3>💼Vibe-IT</h3>
-
 This is a full-stack Software Company website.
 <h5>key features:-</h5>
 <ul>
@@ -28,7 +26,6 @@ Repository Link:- <a href="https://github.com/rifat-hossain07/Vibe-IT-Web.git">V
 </p>
 
  <h3>🏨 RHR-Hotel</h3>
-
 This is a full-stack Hotel Management website.
 <h5>key features:-</h5>
 <ul>
@@ -47,7 +44,6 @@ Repository Link:- <a href="https://github.com/Rifatbd0789/RHR-Hotel-Web.git">RHR
 </p>
  
 <h3>🛒RHR-Tech</h3>
-
 This is a full-stack Tech selling shop website.
 <h5>key features:-</h5>
 <ul>
@@ -70,6 +66,7 @@ Repository Link:- <a href="https://github.com/Rifatbd0789/RHR-Tech-Web.git">RHR-
 <p align="center">
 <a href="https://linkedin.com/in/rifat-rabbi"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="rifat-hossain" /></a>
 <a href="mailto:rifatrabby78@gmail.com"><img align="center" src="https://img.icons8.com/color/65/apple-mail.png" alt="rifat-hossain" /></a>
+<a href="https://www.facebook.com/risam.ahmed.3"><img align="center" src="https://img.icons8.com/color/65/facebook.png" alt="rifat-hossain" /></a>
 </p>
 
 <h1 align="left">💻Technology that I know</h1>
@@ -89,16 +86,7 @@ Repository Link:- <a href="https://github.com/Rifatbd0789/RHR-Tech-Web.git">RHR-
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rifat-hossain07&theme=react" alt="Your Alt Text Here">
-  
 </p>
-
-
-
-
-
-
-
-
 
 
 <!--
