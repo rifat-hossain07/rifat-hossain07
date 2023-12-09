@@ -1,5 +1,5 @@
 ![Header](https://github.com/rifat-hossain07/rifat-hossain07/blob/main/github-header-image.png)
-<h3 align="left">What I do:</h3>
+<h1 align="left">What I do:</h1>
 <h5> MERN Stack Developer 🚀</h5>
 <P>
   
@@ -7,24 +7,20 @@ Focused on building robust and scalable web applications using the MERN stack (M
 </P>
 
 
-<h3 align="left">📫Connect with me:</h3>
+<h1 align="left">📫Connect with me:</h1>
 <p align="center">
-<a href="https://linkedin.com/in/rifat-rabbi" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="rifat-rabbi" /></a>
-<a href="https://linkedin.com/in/rifat-rabbi" target="blank"><img align="center" src="https://img.icons8.com/color/65/apple-mail.png" alt="rifat-rabbi" /></a>
+<a href="https://linkedin.com/in/rifat-rabbi"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="rifat-hossain" /></a>
+<a href="mailto:rifatrabby78@gmail.com"><img align="center" src="https://img.icons8.com/color/65/apple-mail.png" alt="rifat-hossain" /></a>
 </p>
 
-
-
-
-
-<h3 align="left">💻Technology that I know</h3>
+<h1 align="left">💻Technology that I know</h1>
 <p align="center">
    <a href="https://skillicons.dev">  
   <img src="https://skillicons.dev/icons?i=js,tailwind,react,express,nodejs,mongodb,bootstrap,materialui" />
   </a>
 </p>
 
-<h3 align="left">📈Current Stats:</h3>
+<h1 align="left">📈Current Stats:</h1>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rifat-hossain07&theme=react&border_radius=5&card_width=1000)](https://git.io/streak-stats)
 <p align="center">
