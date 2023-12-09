@@ -67,7 +67,7 @@ Repository Link:- <a href="https://github.com/Rifatbd0789/RHR-Tech-Web.git">RHR-
 <h1 align="left">📫Reach me out</h1>
 <p align="center">
 <a href="https://linkedin.com/in/rifat-rabbi"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="rifat-hossain" /></a>
-<a href="mailto:rifatrabby78@gmail.com"><img align="center" src="https://img.icons8.com/color/65/apple-mail.png" alt="rifat-hossain" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rifatrabby78@gmail.com"><img align="center" src="https://img.icons8.com/color/65/apple-mail.png" alt="rifat-hossain" /></a>
 <a href="https://www.facebook.com/risam.ahmed.3"><img align="center" src="https://img.icons8.com/color/65/facebook.png" alt="rifat-hossain" /></a>
 </p>
 
