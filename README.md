@@ -1,6 +1,5 @@
 ![Header](https://github.com/rifat-hossain07/rifat-hossain07/blob/main/github-header-image.png)
 <h1 align="left">What I do:</h1>
-<h5> MERN Stack Developer 🚀</h5>
 <P>
   
 Focused on building robust and scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js). Passionate about crafting efficient backend systems and interactive user interfaces. Always learning and dedicated to delivering high-quality, user-centric solutions.
@@ -12,7 +11,7 @@ Focused on building robust and scalable web applications using the MERN stack (M
  <h3>
 Vibe-IT</h3>
 
-This is a full stack website,which is a software company website.
+This is a full-stack Software Company website.
 <h5>key features:-</h5>
 <ul>
   <li>A complete web application that is role-based, fully encrypted, and has route protection to effectively manage a software company.</li>
@@ -32,7 +31,7 @@ Repository Link:- <a href="https://github.com/rifat-hossain07/Vibe-IT-Web.git">V
  <h3>
 RHR-Hotel</h3>
 
-This is a full-stack website,which is a Hotel Website.
+This is a full-stack Hotel Management website.
 <h5>key features:-</h5>
 <ul>
   <li>Only available seat rooms are displayed to guests; if every seat is reserved, no room will be available for reservation.</li>
@@ -52,7 +51,7 @@ Repository Link:- <a href="https://github.com/Rifatbd0789/RHR-Hotel-Web.git">RHR
 <h3>
 RHR-Tech</h3>
 
-This is a full-stack website,which is a Technology Brand Shop Website.
+This is a full-stack Tech selling shop website.
 <h5>key features:-</h5>
 <ul>
   <li>This website is secured; visitors cannot make any changes without logging in.</li>
@@ -79,7 +78,7 @@ Repository Link:- <a href="https://github.com/Rifatbd0789/RHR-Tech-Web.git">RHR-
 <h1 align="left">💻Technology that I know</h1>
 <p align="center">
    <a href="https://skillicons.dev">  
-  <img src="https://skillicons.dev/icons?i=js,tailwind,react,express,nodejs,mongodb,bootstrap,materialui" />
+  <img src="https://skillicons.dev/icons?i=js,tailwind,react,express,nodejs,mongodb,bootstrap,materialui,nextjs" />
   </a>
 </p>
 
