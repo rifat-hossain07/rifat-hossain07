@@ -5,6 +5,20 @@
   
 Focused on building robust and scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js). Passionate about crafting efficient backend systems and interactive user interfaces. Always learning and dedicated to delivering high-quality, user-centric solutions.
 </P>
+ <h1 align="left">Projects</h1>
+ <h3>
+Vibe-IT</h3>
+<p>
+This is a full stack website,which is a software company website.
+<h5>key features:-</h5>
+A complete web application that is role-based, fully encrypted, and has route protection to effectively manage a software company.
+The website offers many features such as role-based dashboards, dynamic tables, search and sorting functionality also, fire functions, and the ability to modify an employee's role only for admin user.
+Integrated stripe payment method to pay employee salary and image hosting server of ImgBB.
+Technology:- MongoDB, ReactJS, ExpressJS, NodeJS (MERN),The implementation of this technology for this project took 10 days.
+Live Link:-  <a href="https://vibe-it.web.app/">Vibe-IT.com</a>
+Repository Link:- <a href="https://github.com/rifat-hossain07/Vibe-IT-Web.git">Vibe-IT.github</a>
+  
+</p>
 
 
 <h1 align="left">📫Connect with me:</h1>
