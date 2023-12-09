@@ -2,6 +2,7 @@
 
 <h1 align="left">🧑🏻 What I do</h1>
 <P>
+ <h3>Full Stack Developer 🚀</h3>
 Focused on building robust and scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js). Passionate about crafting efficient backend systems and interactive user interfaces. Always learning and dedicated to delivering high-quality, user-centric solutions.
 </P>
 
